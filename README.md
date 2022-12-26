@@ -1,5 +1,7 @@
 # Watip [Weather at IP]
 
+[![Build using node.js](https://github.com/v4ltages/watip/actions/workflows/node.js.yml/badge.svg)](https://github.com/v4ltages/watip/actions/workflows/node.js.yml)
+
 Really simplistic website that shows the current weather at ur IPs geolocation.
 
 ## Development
